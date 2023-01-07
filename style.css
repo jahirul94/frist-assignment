@@ -145,8 +145,7 @@ ul{
 /* footer styles */
  
 .footer-body{
-    display: flex;
-    background-color: #151414;
+   background-color: #151414;
     margin: 110px ;
     width: 1140px;
     height: 400px;
@@ -166,9 +165,10 @@ ul{
 }
 
 .footer-last{
-     position: absolute;
-     left: 850px;
-     padding-top: 90px;
+    position: relative;
+    left: 800px;
+    bottom: 150px;
+     
 }
 .footer-icon{
     margin-left: 5px;
