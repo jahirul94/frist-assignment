@@ -73,6 +73,7 @@ ul{
 .sec-head{
     font-size: 40px;
     color: #151414;
+    margin-bottom: 10px;
     
 }
 
@@ -122,7 +123,7 @@ ul{
 
 .img-dep{
     font-size: 40px;
-    color: #FFFFFF;
+    color: rgb(0, 0, 0);
     position: relative;
     left: 65px;
     top: 60px;
